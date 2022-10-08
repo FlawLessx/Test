@@ -1,0 +1,17 @@
+{
+    "ADS": [
+        {
+            "select_main_ads": "APPLOVIN-M",
+            "select_backup_ads": "",
+            "initialize_sdk": "tDpaVD2vunMAJOfedHBlLEMnrFVAM7_7X2F5RLbF01meO3faMQ_O9ohnmfnTQgVghSo9cFObT3DBST3gJCc8fF",
+            "initialize_sdk_backup": "",
+            "main_ads_banner": "76bac28214342f37",
+            "backup_ads_banner": "",
+            "main_ads_interstitial": "f7887e224f11f1e8",
+            "backup_ads_interstitial": "",
+            "interstitial_counter": "5",
+            "status_app": "0",
+            "link_redirect": "https://github.com/"
+        }
+    ]
+}
