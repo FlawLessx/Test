@@ -3,13 +3,13 @@
         {
             "select_main_ads": "APPLOVIN-M",
             "select_backup_ads": "",
-            "initialize_sdk": "tDpaVD2vunMAJOfedHBlLEMnrFVAM7_7X2F5RLbF01meO3faMQ_O9ohnmfnTQgVghSo9cFObT3DBST3gJCc8fFa",
+            "initialize_sdk": "BvB6qXTJ3WWSrBhfXyzBd58GGE9FevIgP1JM24y3OKO_ASFMkka5kuTeo9dWv0l8DGQq9KEh5GrySRITmp9vHm",
             "initialize_sdk_backup": "",
-            "main_ads_banner": "76bac28214342f37",
+            "main_ads_banner": "d9a0bf0c6422992f",
             "backup_ads_banner": "",
-            "main_ads_interstitial": "f7887e224f11f1e8",
+            "main_ads_interstitial": "4252750c3b383a26",
             "backup_ads_interstitial": "",
-            "interstitial_counter": "5",
+            "interstitial_counter": "10",
             "maintenance": "0",
             "status_app": "0",
             "link_redirect": "https://play.google.com/store/apps/details?id=com.flawlessx.kdrama"
