@@ -12,6 +12,7 @@
       "interstitial_counter": "10",
       "interstitial_show_back_button": true,
       "interstitial_counter_episode": 1,
+      "interstitial_first_open_episode": false,
       "main_ads_rewarded": null,
       "backup_ads_rewarded": "/6499/example/rewarded",
       "main_ads_open_app": null,
